@@ -1,0 +1,9 @@
+Ветка master и demo отличаются файлами README
+Комментарии коммитов:
+    init
+    head added
+    boots
+    README added
+    dots
+    fix readme
+    added hometask
